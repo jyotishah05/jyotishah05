@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jyoti Shah
 
-<!--
-**jyotishah05/jyotishah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student at KIIT University from Bhubaneswar, Odisha.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- HTML/CSS projects
+- Java & DSA
+- Personal website project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’ve been learning Java programming and have also built some small web projects using HTML, CSS, and JavaScript.
+
+📫 Reach me:
+- Email: midnightcompiler2@gmail.com
+- LinkedIn: linkedin.com/in/jyoti-shah-095170358
+
+⚡ Fun fact: I love solving real-world problems with code!
